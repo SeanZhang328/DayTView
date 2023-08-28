@@ -150,7 +150,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 Sean Zhang - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/SeanZhang328/DayTView](https://github.com/SeanZhang328/DayTView)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
