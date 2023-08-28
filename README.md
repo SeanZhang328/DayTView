@@ -80,7 +80,10 @@ DayTrading View
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<div style="display: flex; justify-content: center;">
+  <img src="images/ScreenSnap-dark.png" width="300" height="600" alt="DayTView Screen Snap dark">
+  <img src="images/ScreenSnap-white.png" width="300" height="600" alt="DayTView Screen Snap White">
+</div>
 
 After searching for tools that could assist me in intraday trading, I found that many lacked the intuitive design and actionable insights I needed. That's why I built DayTView, an app that combines my real trading experience with a user-friendly interface.
 
