@@ -98,7 +98,8 @@ After searching for tools that could assist me in intraday trading, I found that
 1. **Intuitive Trend Indicators:** The color of line segments indicates current short-term and long-term trends.
 2. **Background Color Insights:** Understand the prevailing market technical trends essential for intraday trading. For example, a yellow background suggests a subdued trend.
 3. **Robust Trend Identification:** A change in the line chart color that aligns with the background denotes a strong market trend in a particular direction.
-
+4. **Easy to use symbol list:** Easy add symbol with exchange name. Drag to change the order, swipe to delete.
+5. **TradingView Integration:** Using your TradingView login credentials or web browser sessionid in the cookies, the App can get the read-time quotes from the TradingView.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
