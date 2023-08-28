@@ -122,9 +122,36 @@ Download the App at Apple AppStore.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+<table border="0" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;" width="500">
+      <img src="images/usage-1.png" alt="Your Image" width="500" height="500">
+    </td>
+    <td style="border: none; vertical-align:top;">
+      <h3>Usage 1:</h3>
+      <p>
+        <ol>
+          <li>The color of line segments intuitively indicates current short-term and long-term trends.</li>
+          <li>Background colors provide insights into the prevailing market technical trends. This is essential for intraday trading, helping traders discern potential trends. For instance, a yellow background suggests a subdued trend for the day.</li>
+        </ol>
+      </p>
+    </td>
+  </tr>
+    <tr style="border: none;">
+    <td style="border: none;" width="500">
+      <img src="images/usage-2.png" alt="Your Image" width="500" height="500">
+    </td>
+    <td style="border: none; vertical-align:top;">
+      <h3>Usage 2:</h3>
+      <p>
+        <ol>
+          <li>A change in the line chart color that aligns with the background denotes a robust trend. Such convergence is a signal of market strength in a particular direction.</li>
+          <li>Viewing both intraday and daily charts at the same time gives you a more accurate picture of intraday trends</li>
+        </ol>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -133,22 +160,22 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
+- [x] Do Sandbox Test
+- [x] Do TestFlight
+- [x] Project Readme
+- [ ] Add "FAQ" to document
 - [ ] Multi-language Support
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/seanzhang328/DayTView/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
 
-Sean Zhang - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Sean Zhang - seanzhang328 .at. gmail.com
 
 Project Link: [https://github.com/SeanZhang328/DayTView](https://github.com/SeanZhang328/DayTView)
 
@@ -161,14 +188,9 @@ Project Link: [https://github.com/SeanZhang328/DayTView](https://github.com/Sean
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Chat GPT](https://chat.openai.com)
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
