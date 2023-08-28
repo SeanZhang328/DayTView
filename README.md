@@ -179,5 +179,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [stars-url]: https://github.com/seanzhang328/DayTView/stargazers
 [issues-shield]: https://img.shields.io/github/issues/seanzhang328/DayTView.svg?style=for-the-badge
 [issues-url]: https://github.com/seanzhang328/DayTView/issues
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/ScreenSnap-white.png
 [SwiftUI-url]: https://developer.apple.com/xcode/swiftui/ 
