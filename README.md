@@ -31,19 +31,19 @@ DayTrading View
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Day-Trading-View</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome designed to aid traders in making informed intraday trading decisions!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/seanzhang328/DayTView"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/seanzhang328/DayTView">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/seanzhang328/DayTView/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/seanzhang328/DayTView/issues">Request Feature</a>
   </p>
 </div>
 
