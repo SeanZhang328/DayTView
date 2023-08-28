@@ -34,7 +34,7 @@ DayTrading View
   <h3 align="center">Day-Trading-View</h3>
 
   <p align="center">
-    An awesome designed to aid traders in making informed intraday trading decisions!
+    An awesome designed App to aid traders in making informed intraday trading decisions!
     <br />
     <a href="https://github.com/seanzhang328/DayTView"><strong>Explore the docs »</strong></a>
     <br />
