@@ -100,6 +100,7 @@ After searching for tools that could assist me in intraday trading, I found that
 3. **Robust Trend Identification:** A change in the line chart color that aligns with the background denotes a strong market trend in a particular direction.
 4. **Easy to use symbol list:** Easy add symbol with exchange name. Drag to change the order, swipe to delete.
 5. **TradingView Integration:** Using your TradingView login credentials or web browser sessionid in the cookies, the App can get the read-time quotes from the TradingView.
+6. **Support Dark Mode:** This App can automatically follow the system dark mode settings.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
