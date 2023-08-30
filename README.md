@@ -188,7 +188,7 @@ Project Link: [https://github.com/SeanZhang328/DayTView](https://github.com/Sean
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+The resources I find helpful and would like to give credit to:
 
 * [ChatGPT](https://chat.openai.com)
 
