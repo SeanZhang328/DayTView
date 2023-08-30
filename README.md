@@ -190,7 +190,7 @@ Project Link: [https://github.com/SeanZhang328/DayTView](https://github.com/Sean
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Chat GPT](https://chat.openai.com)
+* [ChatGPT](https://chat.openai.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
