@@ -119,7 +119,7 @@ Major frameworks/libraries used to bootstrap this project.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Download the App at Apple AppStore.
+Download the App at Apple AppStore: [https://apps.apple.com/us/app/daytview/id6463077574]
 
 <!-- USAGE EXAMPLES -->
 ## Usage
